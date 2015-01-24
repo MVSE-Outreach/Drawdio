@@ -1,0 +1,5 @@
+- [AAA Procell battery](http://www.ebay.co.uk/itm/50-Duracell-PROCELL-INDUSTRIAL-AAA-MN2400-Alkaline-Batteries-Exp-2021-battery-/331403426280?pt=UK_ConsumerElectronics_Batteries_SM&hash=item4d292ef9e8) we want 1.5V batteries
+- [HB Pencils](http://www.ebay.co.uk/itm/50-x-HB-STAEDTLER-NORIS-PENCILS-SCHOOL-DRAWING-ART-SKETCHING-JOINER-STUDENT-SET-/231139374708?pt=UK_Home_Garden_PensPencils_WritingEquipment_SM&hash=item35d0faf674)
+- [70mm x 2mm zip ties](http://www.ebay.co.uk/itm/100-x-Premium-White-Natural-Nylon-Zip-Cable-Ties-70mm-x-2mm-Free-Postage-/221560342506?pt=UK_DIY_Material_Electrical_Fittings_MJ&hash=item33960687ea)
+- [Conductive copper tape](http://www.ebay.co.uk/itm/New-5mm-x30M-Copper-Foil-Conductive-Tape-Guitar-EMI-Shielding-Adhesive-Barrier-/290815493829?pt=UK_Sound_Vision_Other&hash=item43b5f446c5)
+- [Drawing pins](http://www.ebay.co.uk/itm/Brass-Drawing-Pins-Thumb-Tacks-or-Push-Pins-Choose-from-50-100-150-200-/181620153862?pt=UK_BOI_Office_Office_Supplies_Stationery_ET&var=&hash=item2a49679e06)
