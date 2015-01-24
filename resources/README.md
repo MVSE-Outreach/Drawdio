@@ -7,3 +7,6 @@
 
 All of the files come from the wonderful [LadyAda
 site](https://learn.adafruit.com/drawdio/download)
+
+## Teaching resources
+- [Learning to solder](./SolderComic.pdf)
