@@ -1,5 +1,5 @@
 # Drawdio workshop!
-"[![Drawdio demo](http://img.youtube.com/vi/PV_w38ldZaE/0.jpg)](http://www.youtube.com/watch?v=PV_w38ldZaE)
+[![Drawdio demo](http://img.youtube.com/vi/PV_w38ldZaE/0.jpg)](http://www.youtube.com/watch?v=PV_w38ldZaE)
 
 Come and build a Drawdio (V1.1) at DigiMakers!
 
