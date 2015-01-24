@@ -1,4 +1,6 @@
-Line No.,Order Code,RoHS Compliant?,Notes,Qty,Manufacturer Part Number,Manufacturer / Description,Availability,Unit Price,Line Price,Discount Price
+Line No.,Order Code,RoHS Compliant?,Notes,Qty,Manufacturer Part
+Number,Manufacturer / Description,Availability,Unit Price,Line
+Price,Discount Price,
 1,1702632,YES,,30.0,2466,"KEYSTONE BATTERY HOLDER KEYSTONE-2466-BATTERY HOLDER",1288,0.72,21.63,,
 2,8454396,YES,,30.0,TLC551CP,"TEXAS INSTRUMENTS IC, TIMER, SMD, PDIP8, 551 TEXAS INSTRUMENTS-TLC551CP-IC, TIMER, SMD, PDIP8, 551",130,1.15,34.50,,
 3,2401819RL,YES,,150.0,MCMF006FF3003A50,"MULTICOMP RESISTOR, METAL FILM, 300KOHM, 1%, AXIAL MULTICOMP-MCMF006FF3003A50-RESISTOR, METAL FILM, 300KOHM, 1%, AXIAL",20150,0.01,1.58,,
