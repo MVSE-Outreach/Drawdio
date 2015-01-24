@@ -1,6 +1,6 @@
 # Drawdio Resouces
 ## Circuit files
-![Schematic](./board.png)
+![Schematic](./schematic.png)
 
 - [Board schematic](./drawdio2.sch)
 - [Board layout](./drawdio2.brd)
